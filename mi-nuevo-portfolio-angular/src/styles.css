@@ -17,7 +17,7 @@
 }
 
 header{
-    background-image: url(../src/assets/fondoweb.jpg);
+    background-image: url(../../mi-nuevo-portfolio-angular/src/assets/fondoweb.jpg);
     background-size: cover;
     padding: 100px; 
     text-align: center;
