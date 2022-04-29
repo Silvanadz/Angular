@@ -10,6 +10,7 @@ import { EducacionComponent } from './components/educacion/educacion.component';
 import { CursosComponent } from './components/cursos/cursos.component';
 import { InfoPersonalComponent } from './components/info-personal/info-personal.component';
 import { ExperLaboralComponent } from './components/exper-laboral/exper-laboral.component';
+import { CvComponent } from './components/cv/cv.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { ExperLaboralComponent } from './components/exper-laboral/exper-laboral.
     EducacionComponent,
     CursosComponent,
     InfoPersonalComponent,
-    ExperLaboralComponent
+    ExperLaboralComponent,
+    CvComponent
   ],
   imports: [
     BrowserModule,
